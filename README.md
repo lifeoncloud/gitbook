@@ -12,17 +12,25 @@ description: Google Cloud의 공식 홈페이지들을 정리한 페이지입니
 
 [ttps://www.cloudconnectcommunity.com/ccc/](https://www.cloudconnectcommunity.com/ccc/)
 
+### 
+
 ### 클라우드 온에어
 
 [https://cloudonair.withgoogle.com/](https://cloudonair.withgoogle.com/)
+
+### 
 
 ### 클라우드 온보드
 
 [https://cloudonair.withgoogle.com/onboard](https://cloudonair.withgoogle.com/onboard)
 
+### 
+
 ### 이벤트
 
 [https://cloud.google.com/events](https://cloud.google.com/events)
+
+### 
 
 ### 자격증
 
@@ -38,9 +46,7 @@ description: Google Cloud의 공식 홈페이지들을 정리한 페이지입니
 
 [https://support.google.com/cloud-certification/gethelp](https://support.google.com/cloud-certification/gethelp)
 
-#### 자격증 프로모션\(Start your Google Cloud certification journey\)
-
-[https://inthecloud.withgoogle.com/certification-preparation/register.html](https://inthecloud.withgoogle.com/certification-preparation/register.html)
+#### 
 
 ### 학습
 
@@ -52,9 +58,7 @@ description: Google Cloud의 공식 홈페이지들을 정리한 페이지입니
 
 [https://www.qwiklabs.com/?locale=ko](https://www.qwiklabs.com/?locale=ko)
 
-### 공식 아이콘
-
-[https://cloud.google.com/icons?hl=ko](https://cloud.google.com/icons?hl=ko)
+### 
 
 ## Google Cloud Platform
 
@@ -62,9 +66,21 @@ description: Google Cloud의 공식 홈페이지들을 정리한 페이지입니
 
 [https://cloud.google.com/](https://cloud.google.com/)
 
+### 
+
 ### 콘솔
 
 [https://console.cloud.google.com/](https://console.cloud.google.com/)
+
+### 
+
+### 공식 아이콘
+
+[https://cloud.google.com/icons?hl=ko](https://cloud.google.com/icons?hl=ko)
+
+### 
+
+### 
 
 ### 블로그
 
@@ -76,9 +92,13 @@ description: Google Cloud의 공식 홈페이지들을 정리한 페이지입니
 
 [https://cloud.google.com/blog/ko](https://cloud.google.com/blog/ko)
 
+### 
+
 ### 문서
 
 [https://cloud.google.com/docs](https://cloud.google.com/docs)
+
+### 
 
 ### 상태 대시보드
 
@@ -90,9 +110,13 @@ description: Google Cloud의 공식 홈페이지들을 정리한 페이지입니
 
 [https://workspace.google.com/intl/ko/](https://workspace.google.com/intl/ko/)
 
+### 
+
 ### 관리 콘솔
 
 [https://admin.google.com/](https://admin.google.com/)
+
+### 
 
 ### 블로그
 
@@ -104,13 +128,19 @@ description: Google Cloud의 공식 홈페이지들을 정리한 페이지입니
 
 [https://workspaceupdates.googleblog.com/](https://workspaceupdates.googleblog.com/)
 
+### 
+
 ### 관리자 고객센터
 
 [https://support.google.com/a\#topic=4388346](https://support.google.com/a#topic=4388346)
 
+### 
+
 ### 제품 업데이트
 
 [https://support.google.com/a/table/7314896](https://support.google.com/a/table/7314896)
+
+### 
 
 ### 제품 출시 캘린더
 
@@ -123,6 +153,8 @@ description: Google Cloud의 공식 홈페이지들을 정리한 페이지입니
 #### 제품 출시 캘린더 요약\(월별 뉴스레터\)
 
 [https://workspace.google.com/whatsnew/](https://workspace.google.com/whatsnew/)
+
+### 
 
 ### 상태 대시보드
 
