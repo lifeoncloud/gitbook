@@ -4,8 +4,6 @@ description: Google Cloud의 공식 홈페이지들을 정리한 페이지입니
 
 # Google Cloud Official Sites
 
-## 
-
 ![GCP &#xACF5;&#xC2DD; &#xD648;&#xD398;&#xC774;&#xC9C0; &#xD654;&#xBA74;](.gitbook/assets/solve-more-with-google-cloud.png)
 
 ## Google Cloud
